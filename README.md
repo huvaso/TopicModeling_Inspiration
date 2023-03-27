@@ -1,11 +1,11 @@
 # TOMIAS: TOpic Modeling for Inspiration AnalysiS
 
 Authors:
-- Martín Hernani
-- Harumi 
+- Martín Hernani-Merino
+- Harumi Gonzales-Hara
 - Hugo Alatrista-Salas
 
-The following project includes sources (notebook) and datasets for mining textual data associated with inspiration customer behavior. The project includes a dataset depository in which tweets and survey results are included. Also, some images used in the papers were located in the Images directory. These images can be obtained by executing the notebook "TopicModeling_Inspiration_Shared.ipynb".
+The following project includes sources (notebook) and datasets for mining textual data associated with inspiration customer behavior. The project includes a dataset depository ("Data") in which tweets and survey results are included. Also, some images used in the papers were located in the "Figures" directory. These images can be obtained by executing the notebook "TopicModeling_Inspiration_Shared.ipynb".
 
 All results of our contribution can be obtained through the "TopicModeling_Inspiration_Shared.ipynb". This notebook is organized into functions:
 
@@ -19,4 +19,4 @@ All results of our contribution can be obtained through the "TopicModeling_Inspi
 8) embeddings_skip_inspired_by(): analyze the semantic relationship between words belonging to the topic "Inspired by" and a specific word (e.g., sport or person)
 9) wordclouds(): visualize the wordclouds from words found with the embeddings function
 
-Please, if you have some questions, do not hesitate to contact us (halatrista@pucp.pe).
+Please, if you have some questions, do not hesitate to contact us (mn.hernanim@up.edu.pe, halatrista@pucp.pe).
