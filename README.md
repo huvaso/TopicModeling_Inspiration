@@ -2,8 +2,10 @@
 
 Authors:
 - Martín Hernani-Merino
-- Harumi Gonzales-Hara
+- José Afonso Mazzon
+- David Mayorga
 - Hugo Alatrista-Salas
+- Harumi Gonzales-Hara
 
 The following project includes sources (notebook) and datasets for mining textual data associated with inspiration customer behavior. The project includes a dataset depository ("Data") in which tweets and survey results are included. Also, some images used in the papers were located in the "Figures" directory. These images can be obtained by executing the notebook "TopicModeling_Inspiration_Shared.ipynb".
 
